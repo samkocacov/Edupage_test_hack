@@ -42,16 +42,10 @@ console.log('zobrazovač správnych odpovedí pre EduPage');
 console.log('------------------------------------------------------');
 console.log('Objaviteľ bugu: neznámy');
 console.log('Autor scriptu: Samuel Čavoj');
-console.log('Verzia: 2.1');
+console.log('Verzia: 1.0');
 console.log('Dátum poslednej úpravy: 19.11.2024');
 console.log('Licencia: MIT Licencia');
-console.log('------------------------------------------------------');
-console.log('Návod na použitie hacku: správna odpoveď sa nachádza zvyčajne vedľa');
-console.log('V prípade dopĺňania stačí kliknúť na text -> automaticky sa skopíruje. Potom ho len stačí prilepiť.');
-console.log('V prípade viacerých možností stačí skopírovať len jednu.');
-console.log('Ak si odpoveď vyberáš, tlačidlo skopírovať jednoducho ignoruj.');
-console.log('V prípade ABCD je správna odpoveď v obdĺžniku.');
-console.log('Za výsledok si zodpovedný ty.');
+
 
 function copy(spravne_odpovede) {
   navigator.clipboard.writeText(spravne_odpovede).then(function () {
