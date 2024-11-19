@@ -3,7 +3,6 @@
 1. Otvorte Edupage
 2. Otvorte konzolu (konzolu otvoríte stlačením klávesy `F12` alebo Kliknite pravým tlačidlom myši a stlačte Inspect element/Preskúmať prvok)
 3. Vložte príkaz do konzoly
-(ak vám príkaz nepôjde vložiť musíťe najprv vkladanie povoliť príkazom "povoliť vkladanie"
 
 ## Návod na použitie hacku:
 
